@@ -41,3 +41,9 @@ function stringy(size) {
 }
 
 console.log(stringy(5))
+// ==================================
+function ifChuckSaysSo(){
+  return !true;
+}
+
+console.log(ifChuckSaysSo());
